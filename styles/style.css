@@ -45,8 +45,9 @@
   /* WRITE YOUR CODE BELOW HERE */
 
   body {
-    font-family: "Playfair Display";
+    font-family: "PT Serif";
     font-size: 10px;
+    line-height: 2.5em;
   }
 
   h1, h2 {
