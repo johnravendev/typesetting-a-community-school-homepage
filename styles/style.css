@@ -58,3 +58,7 @@
   ul li, ol li, p {
     font-size: 1.5em;
   }
+
+  h1 {
+    text-align: center;
+  }
