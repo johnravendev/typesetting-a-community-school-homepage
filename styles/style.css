@@ -79,4 +79,12 @@ section h2 + p {
 
 /* Lists */
 
+ul li {
+    list-style-type: square;
+}
+
+ol li {
+    list-style-type: lower-alpha;
+}
+
 /* Navigation menu */
