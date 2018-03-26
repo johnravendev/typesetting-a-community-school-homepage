@@ -44,6 +44,8 @@ header, footer {
 
 /* Write your code below here */
 
+/* General text styling and fonts */
+
 body {
     font-family: "PT Serif";
     font-size: 10px;
@@ -72,3 +74,9 @@ h1, h2 {
 section h2 + p {
     text-indent: 20px;
 }
+
+/* Links */
+
+/* Lists */
+
+/* Navigation menu */
