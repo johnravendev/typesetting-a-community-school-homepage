@@ -43,3 +43,11 @@
   }
   
   /* WRITE YOUR CODE BELOW HERE */
+
+  body {
+    font-family: "Cormorant Garamond";
+  }
+
+  h1, h2 {
+    font-family: "Roboto Slab";
+  }
