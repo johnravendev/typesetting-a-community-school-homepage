@@ -105,4 +105,19 @@ a[href*="https"] {
     padding-right: 19px;
 }
 
+/* Lists */
+
+ul, ol {
+    margin-top: 1.6rem;
+    margin-bottom: 1.6rem;
+}
+
+ul {
+    list-style-type: square;
+}
+
+ol {
+    list-style-type: lower-alpha;
+}
+
 /* Navigation menu */
