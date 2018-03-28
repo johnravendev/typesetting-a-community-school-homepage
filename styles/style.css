@@ -81,4 +81,28 @@ h2 + p {
 }
 
 /* Links */
+
+a {
+    outline: none;
+}
+
+a:link, a:visited {
+    color: #03A9F4;
+}
+
+a:focus, a:hover {
+    color: #03A9F4;
+    text-decoration: none;
+}
+
+a:active {
+    text-shadow: 1px 1px 1px black;
+}
+
+a[href*="https"] {
+    background: url("https://mdn.mozillademos.org/files/12982/external-link-52.png") no-repeat 100% 0;
+    background-size: 16px 16px;
+    padding-right: 19px;
+}
+
 /* Navigation menu */
