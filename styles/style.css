@@ -81,37 +81,4 @@ section h2 + p {
 }
 
 /* Links */
-
-a {
-    outline: none;
-}
-
-a[href*="http"] {
-    background: url('https://mdn.mozillademos.org/files/12982/external-link-52.png') no-repeat 100% 0;
-    background-size: 16px 16px;
-    padding-right: 19px;
-}
-
-a:link, a:visited, a:focus {
-    color: #78A6BF;
-}
-
-a:hover {
-    text-decoration: none;
-}
-
-a:active {
-    text-shadow: 1px 1px 1px black;
-}
-
-/* Lists */
-
-ul li {
-    list-style-type: square;
-}
-
-ol li {
-    list-style-type: lower-alpha;
-}
-
 /* Navigation menu */
